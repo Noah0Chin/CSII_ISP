@@ -1,0 +1,23 @@
+   Describe what the idea is in half a page or less
+
+Ideas
+
+Covid dashboard
+Laptoppartpicker dab
+Rpg game
+
+
+
+
+
+Our idea for the Independent Study Project is to make a covid dashboard that will display statistics such as total death count, hospitalization, current cases, and more. We will have a map of the world displayed, with information for the various regions. Much of the information will be projected through text, and if possible, there may be accompanying graphs that show the data in a more visualized manner.
+
+1. Excitement
+I am excited about creating something that might actually be useful for me and others. This project also seems really fun to do, as it involves concepts I'm interested in
+
+2. Concerns
+Well first of all we will need to learn how to create interactive buttons and animate colors or shapes on IGIS,
+Hardest of all we will need to learn how to webscrape, and if that is even possible for us to do in the first place.
+Finally, we wil need to figure out forumlas to use for our numbers.
+
+3. UI sketch link https://cdn.discordapp.com/attachments/786433258429612062/786442379640569856/unknown.png

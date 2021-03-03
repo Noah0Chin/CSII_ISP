@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/WebScrapping.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WebScrapping.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WebScrapping.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WebScrapping~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/WebScrapping.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/main.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
