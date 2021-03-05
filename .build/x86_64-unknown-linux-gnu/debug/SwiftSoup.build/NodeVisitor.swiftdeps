@@ -1,0 +1,27 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NodeVisitor"
+provides-nominal:
+- "9SwiftSoup11NodeVisitorP"
+provides-member:
+- ["9SwiftSoup11NodeVisitorP", ""]
+depends-top-level:
+- "Int"
+- "Node"
+- "NodeVisitor"
+depends-member:
+- ["9SwiftSoup11NodeVisitorP", "Int"]
+- ["9SwiftSoup11NodeVisitorP", "Node"]
+- ["9SwiftSoup11NodeVisitorP", "head"]
+- ["9SwiftSoup11NodeVisitorP", "tail"]
+depends-nominal:
+- "9SwiftSoup11NodeVisitorP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "bbbc4bb1aaf7dfe94aed45735446205d"

@@ -1,0 +1,205 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StructuralEvaluator"
+provides-nominal:
+- "9SwiftSoup19StructuralEvaluatorC"
+- "9SwiftSoup19StructuralEvaluatorC4RootC"
+- "9SwiftSoup19StructuralEvaluatorC3HasC"
+- "9SwiftSoup19StructuralEvaluatorC3NotC"
+- "9SwiftSoup19StructuralEvaluatorC6ParentC"
+- "9SwiftSoup19StructuralEvaluatorC15ImmediateParentC"
+- "9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC"
+- "9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC"
+provides-member:
+- ["9SwiftSoup19StructuralEvaluatorC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC4RootC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", ""]
+depends-top-level:
+- !private "!"
+- "!="
+- "=="
+- !private "==="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Element"
+- "Evaluator"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- "StructuralEvaluator"
+- !private "UnicodeScalarType"
+- !private "evaluator"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", "getAllElements"]
+- !private ["s28CustomDebugStringConvertibleP", "parent"]
+- !private ["s28CustomDebugStringConvertibleP", "previousElementSibling"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "getAllElements"]
+- !private ["s23CustomStringConvertibleP", "parent"]
+- !private ["s23CustomStringConvertibleP", "previousElementSibling"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["9SwiftSoup7ElementC", ""]
+- !private ["9SwiftSoup7ElementC", "getAllElements"]
+- !private ["9SwiftSoup7ElementC", "parent"]
+- !private ["9SwiftSoup7ElementC", "previousElementSibling"]
+- !private ["9SwiftSoup8ElementsC", "array"]
+- !private ["SQ", ""]
+- !private ["SQ", "array"]
+- !private ["SQ", "getAllElements"]
+- !private ["SQ", "parent"]
+- !private ["SQ", "previousElementSibling"]
+- ["9SwiftSoup9EvaluatorC", "Bool"]
+- ["9SwiftSoup9EvaluatorC", "Element"]
+- ["9SwiftSoup9EvaluatorC", "Evaluator"]
+- ["9SwiftSoup9EvaluatorC", "String"]
+- ["9SwiftSoup9EvaluatorC", "StructuralEvaluator"]
+- ["9SwiftSoup9EvaluatorC", ""]
+- ["9SwiftSoup9EvaluatorC", "evaluator"]
+- ["9SwiftSoup9EvaluatorC", "init"]
+- ["9SwiftSoup9EvaluatorC", "matches"]
+- ["9SwiftSoup9EvaluatorC", "toString"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "deinit"]
+- !private ["9SwiftSoup19StructuralEvaluatorC3HasC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC3HasC", "toString"]
+- !private ["SH", "getAllElements"]
+- !private ["SH", "parent"]
+- !private ["SH", "previousElementSibling"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "deinit"]
+- !private ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC15ImmediateParentC", "toString"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "deinit"]
+- !private ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC", "toString"]
+- !private ["10Foundation9NSCopyingP", "array"]
+- ["9SwiftSoup4NodeC", ""]
+- !private ["9SwiftSoup4NodeC", "getAllElements"]
+- !private ["9SwiftSoup4NodeC", "parent"]
+- !private ["9SwiftSoup4NodeC", "previousElementSibling"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "deinit"]
+- !private ["9SwiftSoup19StructuralEvaluatorC3NotC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC3NotC", "toString"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "deinit"]
+- !private ["9SwiftSoup19StructuralEvaluatorC6ParentC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC6ParentC", "toString"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "deinit"]
+- !private ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC", "toString"]
+- ["9SwiftSoup19StructuralEvaluatorC4RootC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC4RootC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC4RootC", "deinit"]
+- ["9SwiftSoup19StructuralEvaluatorC4RootC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC4RootC", "matches"]
+- !private ["ST", "Element"]
+- !private ["ST", "Iterator"]
+- !private ["ST", "array"]
+- !private ["ST", "makeIterator"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Bool"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Element"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Has"]
+- ["9SwiftSoup19StructuralEvaluatorC", "ImmediateParent"]
+- ["9SwiftSoup19StructuralEvaluatorC", "ImmediatePreviousSibling"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Not"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Parent"]
+- ["9SwiftSoup19StructuralEvaluatorC", "PreviousSibling"]
+- ["9SwiftSoup19StructuralEvaluatorC", "Root"]
+- ["9SwiftSoup19StructuralEvaluatorC", "String"]
+- ["9SwiftSoup19StructuralEvaluatorC", "StructuralEvaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC", ""]
+- ["9SwiftSoup19StructuralEvaluatorC", "deinit"]
+- ["9SwiftSoup19StructuralEvaluatorC", "evaluator"]
+- ["9SwiftSoup19StructuralEvaluatorC", "init"]
+- ["9SwiftSoup19StructuralEvaluatorC", "matches"]
+- ["9SwiftSoup19StructuralEvaluatorC", "toString"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- !private "9SwiftSoup7ElementC"
+- !private "9SwiftSoup8ElementsC"
+- !private "SQ"
+- "9SwiftSoup9EvaluatorC"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- "9SwiftSoup19StructuralEvaluatorC3HasC"
+- !private "SH"
+- "9SwiftSoup19StructuralEvaluatorC15ImmediateParentC"
+- "9SwiftSoup19StructuralEvaluatorC24ImmediatePreviousSiblingC"
+- !private "10Foundation9NSCopyingP"
+- "9SwiftSoup4NodeC"
+- "9SwiftSoup19StructuralEvaluatorC3NotC"
+- "9SwiftSoup19StructuralEvaluatorC6ParentC"
+- "9SwiftSoup19StructuralEvaluatorC15PreviousSiblingC"
+- "9SwiftSoup19StructuralEvaluatorC4RootC"
+- !private "ST"
+- !private "s27StringInterpolationProtocolP"
+- "9SwiftSoup19StructuralEvaluatorC"
+- !private "s16TextOutputStreamP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "79cd578e1e3ee9bcad612730c4ed446c"

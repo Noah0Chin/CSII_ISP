@@ -1,0 +1,45 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "doIt"
+provides-nominal:
+provides-member:
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "Document"
+- "String"
+- !private "StringLiteralType"
+- !private "SwiftSoup"
+- "doIt"
+- "print"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["9SwiftSoup8DocumentC", "text"]
+- ["9SwiftSoup7ElementC", ""]
+- !private ["9SwiftSoup7ElementC", "text"]
+- !private ["SQ", ""]
+- !private ["SQ", "text"]
+- !private ["SH", "text"]
+- ["9SwiftSoup4NodeC", ""]
+- !private ["9SwiftSoup4NodeC", "text"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "9SwiftSoup8DocumentC"
+- "9SwiftSoup7ElementC"
+- !private "SQ"
+- !private "SH"
+- "9SwiftSoup4NodeC"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "d1809f4ffbf5963618e3fa2ba3fffcf5"

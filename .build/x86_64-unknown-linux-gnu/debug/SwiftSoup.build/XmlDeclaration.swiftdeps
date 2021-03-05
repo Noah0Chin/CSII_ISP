@@ -1,0 +1,230 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "XmlDeclaration"
+provides-nominal:
+- "9SwiftSoup14XmlDeclarationC"
+provides-member:
+- ["9SwiftSoup14XmlDeclarationC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "Int"
+- "NSZone"
+- "Node"
+- "OutputSettings"
+- "String"
+- "StringBuilder"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- !private "UnicodeScalarType"
+- "XmlDeclaration"
+- !private "_name"
+- !private "attributes"
+- !private "baseUri"
+- !private "copy"
+- !private "isProcessingInstruction"
+depends-member:
+- !private ["9SwiftSoup10AttributesC", "html"]
+- !private ["SK", ""]
+- !private ["SK", "trim"]
+- !private ["Sl", ""]
+- !private ["Sl", "trim"]
+- !private ["SL", ""]
+- !private ["SL", "trim"]
+- !private ["s28CustomDebugStringConvertibleP", "XmlDeclaration"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_name"]
+- !private ["s28CustomDebugStringConvertibleP", "attributes"]
+- !private ["s28CustomDebugStringConvertibleP", "baseUri"]
+- !private ["s28CustomDebugStringConvertibleP", "copy"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isProcessingInstruction"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "outerHtmlHead"]
+- !private ["s28CustomDebugStringConvertibleP", "outerHtmlTail"]
+- !private ["s28CustomDebugStringConvertibleP", "trim"]
+- !private ["s17CustomReflectableP", "trim"]
+- !private ["s23CustomStringConvertibleP", "XmlDeclaration"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_name"]
+- !private ["s23CustomStringConvertibleP", "attributes"]
+- !private ["s23CustomStringConvertibleP", "baseUri"]
+- !private ["s23CustomStringConvertibleP", "copy"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isProcessingInstruction"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "outerHtmlHead"]
+- !private ["s23CustomStringConvertibleP", "outerHtmlTail"]
+- !private ["s23CustomStringConvertibleP", "trim"]
+- !private ["Se", "trim"]
+- !private ["SE", "trim"]
+- !private ["SQ", "XmlDeclaration"]
+- ["SQ", ""]
+- !private ["SQ", "_name"]
+- !private ["SQ", "attributes"]
+- !private ["SQ", "baseUri"]
+- !private ["SQ", "copy"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isProcessingInstruction"]
+- !private ["SQ", "name"]
+- !private ["SQ", "outerHtmlHead"]
+- !private ["SQ", "outerHtmlTail"]
+- !private ["SQ", "trim"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "trim"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "trim"]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "trim"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "trim"]
+- !private ["SH", "XmlDeclaration"]
+- ["SH", ""]
+- !private ["SH", "_name"]
+- !private ["SH", "attributes"]
+- !private ["SH", "baseUri"]
+- !private ["SH", "copy"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "isProcessingInstruction"]
+- !private ["SH", "name"]
+- !private ["SH", "outerHtmlHead"]
+- !private ["SH", "outerHtmlTail"]
+- !private ["SH", "trim"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "trim"]
+- !private ["s10MirrorPathP", "trim"]
+- !private ["10Foundation8NSCodingP", ""]
+- !private ["10Foundation8NSCodingP", "trim"]
+- !private ["10Foundation9NSCopyingP", "html"]
+- !private ["10Foundation9NSCopyingP", "trim"]
+- !private ["10Foundation16NSMutableCopyingP", "trim"]
+- !private ["10Foundation8NSObjectC", "trim"]
+- !private ["10Foundation16NSObjectProtocolP", "trim"]
+- !private ["10Foundation14NSSecureCodingP", "trim"]
+- !private ["10Foundation8NSStringC", "trim"]
+- ["9SwiftSoup4NodeC", "Bool"]
+- ["9SwiftSoup4NodeC", "Int"]
+- ["9SwiftSoup4NodeC", "NSZone"]
+- ["9SwiftSoup4NodeC", "Node"]
+- ["9SwiftSoup4NodeC", "OutputSettings"]
+- ["9SwiftSoup4NodeC", "String"]
+- ["9SwiftSoup4NodeC", "StringBuilder"]
+- !private ["9SwiftSoup4NodeC", "XmlDeclaration"]
+- ["9SwiftSoup4NodeC", ""]
+- ["9SwiftSoup4NodeC", "_name"]
+- !private ["9SwiftSoup4NodeC", "attributes"]
+- !private ["9SwiftSoup4NodeC", "baseUri"]
+- ["9SwiftSoup4NodeC", "copy"]
+- ["9SwiftSoup4NodeC", "getWholeDeclaration"]
+- ["9SwiftSoup4NodeC", "init"]
+- ["9SwiftSoup4NodeC", "isProcessingInstruction"]
+- ["9SwiftSoup4NodeC", "name"]
+- ["9SwiftSoup4NodeC", "nodeName"]
+- ["9SwiftSoup4NodeC", "outerHtmlHead"]
+- ["9SwiftSoup4NodeC", "outerHtmlTail"]
+- !private ["Sm", "trim"]
+- !private ["ST", ""]
+- !private ["ST", "html"]
+- !private ["ST", "trim"]
+- !private ["SS", "trim"]
+- !private ["9SwiftSoup13StringBuilderC", "append"]
+- !private ["Sy", "trim"]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "trim"]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "trim"]
+- ["9SwiftSoup14XmlDeclarationC", "Bool"]
+- ["9SwiftSoup14XmlDeclarationC", "Int"]
+- ["9SwiftSoup14XmlDeclarationC", "NSZone"]
+- ["9SwiftSoup14XmlDeclarationC", "Node"]
+- ["9SwiftSoup14XmlDeclarationC", "OutputSettings"]
+- ["9SwiftSoup14XmlDeclarationC", "String"]
+- ["9SwiftSoup14XmlDeclarationC", "StringBuilder"]
+- !private ["9SwiftSoup14XmlDeclarationC", "XmlDeclaration"]
+- ["9SwiftSoup14XmlDeclarationC", ""]
+- !private ["9SwiftSoup14XmlDeclarationC", "_name"]
+- !private ["9SwiftSoup14XmlDeclarationC", "attributes"]
+- !private ["9SwiftSoup14XmlDeclarationC", "baseUri"]
+- ["9SwiftSoup14XmlDeclarationC", "copy"]
+- ["9SwiftSoup14XmlDeclarationC", "deinit"]
+- ["9SwiftSoup14XmlDeclarationC", "getWholeDeclaration"]
+- ["9SwiftSoup14XmlDeclarationC", "init"]
+- !private ["9SwiftSoup14XmlDeclarationC", "isProcessingInstruction"]
+- ["9SwiftSoup14XmlDeclarationC", "name"]
+- ["9SwiftSoup14XmlDeclarationC", "nodeName"]
+- ["9SwiftSoup14XmlDeclarationC", "outerHtmlHead"]
+- ["9SwiftSoup14XmlDeclarationC", "outerHtmlTail"]
+- !private ["10Foundation13_CFBridgeableP", "trim"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "trim"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "trim"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "trim"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "trim"]
+- !private ["s19_HasContiguousBytesP", "trim"]
+- !private ["10Foundation13_NSBridgeableP", "trim"]
+- !private ["s21_ObjectiveCBridgeableP", "_ObjectiveCType"]
+- !private ["s21_ObjectiveCBridgeableP", "trim"]
+- !private ["10Foundation17_StructBridgeableP", ""]
+- !private ["10Foundation17_StructBridgeableP", "trim"]
+- !private ["10Foundation21_StructTypeBridgeableP", "trim"]
+- !private ["10Foundation16_SwiftBridgeableP", "trim"]
+depends-nominal:
+- !private "9SwiftSoup10AttributesC"
+- !private "SK"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "10Foundation8NSCodingP"
+- !private "10Foundation9NSCopyingP"
+- !private "10Foundation16NSMutableCopyingP"
+- !private "10Foundation8NSObjectC"
+- !private "10Foundation16NSObjectProtocolP"
+- !private "10Foundation14NSSecureCodingP"
+- !private "10Foundation8NSStringC"
+- "9SwiftSoup4NodeC"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "9SwiftSoup13StringBuilderC"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "9SwiftSoup14XmlDeclarationC"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "10Foundation17_StructBridgeableP"
+- !private "10Foundation21_StructTypeBridgeableP"
+- !private "10Foundation16_SwiftBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "15044c1c0b0917db2b7e0589608103d1"

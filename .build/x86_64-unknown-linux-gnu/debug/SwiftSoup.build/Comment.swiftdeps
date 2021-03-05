@@ -1,0 +1,137 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Comment"
+provides-nominal:
+- "9SwiftSoup7CommentC"
+provides-member:
+- ["9SwiftSoup7CommentC", ""]
+depends-top-level:
+- "Comment"
+- "Int"
+- "NSZone"
+- "Node"
+- "OutputSettings"
+- "String"
+- "StringBuilder"
+- "StringLiteralType"
+- !private "attributes"
+- !private "baseUri"
+- !private "copy"
+- !private "getData"
+- !private "indent"
+depends-member:
+- !private ["9SwiftSoup10AttributesC", "get"]
+- !private ["9SwiftSoup10AttributesC", "put"]
+- !private ["9SwiftSoup7CommentC", "COMMENT_KEY"]
+- !private ["9SwiftSoup7CommentC", "Comment"]
+- ["9SwiftSoup7CommentC", "Int"]
+- ["9SwiftSoup7CommentC", "NSZone"]
+- ["9SwiftSoup7CommentC", "Node"]
+- ["9SwiftSoup7CommentC", "OutputSettings"]
+- ["9SwiftSoup7CommentC", "String"]
+- ["9SwiftSoup7CommentC", "StringBuilder"]
+- ["9SwiftSoup7CommentC", ""]
+- !private ["9SwiftSoup7CommentC", "attributes"]
+- !private ["9SwiftSoup7CommentC", "baseUri"]
+- ["9SwiftSoup7CommentC", "copy"]
+- ["9SwiftSoup7CommentC", "deinit"]
+- ["9SwiftSoup7CommentC", "getData"]
+- !private ["9SwiftSoup7CommentC", "indent"]
+- ["9SwiftSoup7CommentC", "init"]
+- ["9SwiftSoup7CommentC", "nodeName"]
+- ["9SwiftSoup7CommentC", "outerHtmlHead"]
+- ["9SwiftSoup7CommentC", "outerHtmlTail"]
+- !private ["s28CustomDebugStringConvertibleP", "COMMENT_KEY"]
+- !private ["s28CustomDebugStringConvertibleP", "Comment"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "attributes"]
+- !private ["s28CustomDebugStringConvertibleP", "baseUri"]
+- !private ["s28CustomDebugStringConvertibleP", "copy"]
+- !private ["s28CustomDebugStringConvertibleP", "getData"]
+- !private ["s28CustomDebugStringConvertibleP", "indent"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "outerHtmlHead"]
+- !private ["s28CustomDebugStringConvertibleP", "outerHtmlTail"]
+- !private ["s23CustomStringConvertibleP", "COMMENT_KEY"]
+- !private ["s23CustomStringConvertibleP", "Comment"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "attributes"]
+- !private ["s23CustomStringConvertibleP", "baseUri"]
+- !private ["s23CustomStringConvertibleP", "copy"]
+- !private ["s23CustomStringConvertibleP", "getData"]
+- !private ["s23CustomStringConvertibleP", "indent"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "outerHtmlHead"]
+- !private ["s23CustomStringConvertibleP", "outerHtmlTail"]
+- !private ["SQ", "COMMENT_KEY"]
+- !private ["SQ", "Comment"]
+- ["SQ", ""]
+- !private ["SQ", "attributes"]
+- !private ["SQ", "baseUri"]
+- !private ["SQ", "copy"]
+- !private ["SQ", "getData"]
+- !private ["SQ", "indent"]
+- !private ["SQ", "init"]
+- !private ["SQ", "outerHtmlHead"]
+- !private ["SQ", "outerHtmlTail"]
+- !private ["SH", "COMMENT_KEY"]
+- !private ["SH", "Comment"]
+- ["SH", ""]
+- !private ["SH", "attributes"]
+- !private ["SH", "baseUri"]
+- !private ["SH", "copy"]
+- !private ["SH", "getData"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "indent"]
+- !private ["SH", "init"]
+- !private ["SH", "outerHtmlHead"]
+- !private ["SH", "outerHtmlTail"]
+- !private ["10Foundation9NSCopyingP", "get"]
+- !private ["10Foundation9NSCopyingP", "prettyPrint"]
+- !private ["10Foundation9NSCopyingP", "put"]
+- ["9SwiftSoup4NodeC", "COMMENT_KEY"]
+- !private ["9SwiftSoup4NodeC", "Comment"]
+- ["9SwiftSoup4NodeC", "Int"]
+- ["9SwiftSoup4NodeC", "NSZone"]
+- ["9SwiftSoup4NodeC", "Node"]
+- ["9SwiftSoup4NodeC", "OutputSettings"]
+- ["9SwiftSoup4NodeC", "String"]
+- ["9SwiftSoup4NodeC", "StringBuilder"]
+- ["9SwiftSoup4NodeC", ""]
+- !private ["9SwiftSoup4NodeC", "attributes"]
+- !private ["9SwiftSoup4NodeC", "baseUri"]
+- ["9SwiftSoup4NodeC", "copy"]
+- ["9SwiftSoup4NodeC", "getData"]
+- !private ["9SwiftSoup4NodeC", "indent"]
+- ["9SwiftSoup4NodeC", "init"]
+- ["9SwiftSoup4NodeC", "nodeName"]
+- ["9SwiftSoup4NodeC", "outerHtmlHead"]
+- ["9SwiftSoup4NodeC", "outerHtmlTail"]
+- !private ["9SwiftSoup14OutputSettingsC", "prettyPrint"]
+- !private ["ST", "get"]
+- !private ["ST", "put"]
+- !private ["9SwiftSoup13StringBuilderC", "append"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- !private "9SwiftSoup10AttributesC"
+- "9SwiftSoup7CommentC"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "10Foundation9NSCopyingP"
+- "9SwiftSoup4NodeC"
+- !private "9SwiftSoup14OutputSettingsC"
+- !private "ST"
+- !private "9SwiftSoup13StringBuilderC"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "c985c8d91e18afda3a519a80b9ea3cd3"

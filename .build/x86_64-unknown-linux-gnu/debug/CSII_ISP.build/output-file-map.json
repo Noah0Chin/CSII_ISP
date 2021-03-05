@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/CSII_ISP.build/master.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/Sources/CSII-ISP/main.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/CSII_ISP.build/main.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/CSII_ISP.build/main.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/CSII_ISP.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/CSII_ISP.build/main.swiftdeps"
+  }
+}

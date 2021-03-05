@@ -1,0 +1,341 @@
+{
+  "": {
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/master.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/ArrayExt.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ArrayExt.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ArrayExt.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ArrayExt~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ArrayExt.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Attribute.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attribute.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attribute.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attribute~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attribute.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Attributes.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attributes.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attributes.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attributes~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Attributes.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/BooleanAttribute.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/BooleanAttribute.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/BooleanAttribute.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/BooleanAttribute~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/BooleanAttribute.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/CharacterExt.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterExt.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterExt.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterExt~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterExt.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/CharacterReader.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterReader.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterReader.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterReader~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CharacterReader.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Cleaner.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Cleaner.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Cleaner.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Cleaner~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Cleaner.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Collector.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Collector.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Collector.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Collector~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Collector.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/CombiningEvaluator.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CombiningEvaluator.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CombiningEvaluator.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CombiningEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/CombiningEvaluator.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Comment.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Comment.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Comment.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Comment~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Comment.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Connection.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Connection.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Connection.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Connection~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Connection.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/DataNode.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataNode.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataNode.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataNode~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataNode.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/DataUtil.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataUtil.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataUtil.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataUtil~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DataUtil.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Document.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Document.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Document.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Document~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Document.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/DocumentType.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DocumentType.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DocumentType.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DocumentType~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/DocumentType.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Element.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Element.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Element.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Element~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Element.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Elements.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Elements.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Elements.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Elements~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Elements.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Entities.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Entities.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Entities.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Entities~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Entities.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Evaluator.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Evaluator.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Evaluator.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Evaluator~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Evaluator.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Exception.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Exception.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Exception.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Exception~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Exception.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/FormElement.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/FormElement.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/FormElement.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/FormElement~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/FormElement.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/HtmlTreeBuilder.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilder.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilder.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilder.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/HtmlTreeBuilderState.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilderState.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilderState.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilderState~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HtmlTreeBuilderState.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/HttpStatusException.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HttpStatusException.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HttpStatusException.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HttpStatusException~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/HttpStatusException.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Node.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Node.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Node.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Node~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Node.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/NodeTraversor.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeTraversor.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeTraversor.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeTraversor~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeTraversor.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/NodeVisitor.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeVisitor.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeVisitor.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeVisitor~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/NodeVisitor.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/OrderedDictionary.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedDictionary.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedDictionary.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedDictionary~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedDictionary.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/OrderedSet.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedSet.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedSet.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedSet~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/OrderedSet.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/ParseError.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseError.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseError.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseError~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseError.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/ParseErrorList.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseErrorList.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseErrorList.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseErrorList~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseErrorList.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/ParseSettings.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseSettings.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseSettings.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseSettings~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/ParseSettings.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Parser.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Parser.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Parser.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Parser.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Pattern.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Pattern.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Pattern.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Pattern~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Pattern.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/QueryParser.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/QueryParser.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/QueryParser.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/QueryParser~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/QueryParser.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Selector.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Selector.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Selector.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Selector~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Selector.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/SerializationException.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SerializationException.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SerializationException.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SerializationException~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SerializationException.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/SimpleDictionary.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SimpleDictionary.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SimpleDictionary.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SimpleDictionary~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SimpleDictionary.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/StreamReader.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StreamReader.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StreamReader.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StreamReader~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StreamReader.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/String.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/String.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/String.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/String~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/String.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/StringBuilder.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringBuilder.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringBuilder.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringBuilder.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/StringUtil.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringUtil.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringUtil.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringUtil~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StringUtil.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/StructuralEvaluator.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StructuralEvaluator.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StructuralEvaluator.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StructuralEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/StructuralEvaluator.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/SwiftSoup.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SwiftSoup.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SwiftSoup.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SwiftSoup~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/SwiftSoup.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Tag.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tag.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tag.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tag~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tag.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/TextNode.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TextNode.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TextNode.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TextNode~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TextNode.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Token.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Token.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Token.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Token~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Token.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/TokenQueue.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokenQueue.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokenQueue.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokenQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokenQueue.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Tokeniser.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tokeniser.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tokeniser.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tokeniser~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Tokeniser.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/TokeniserState.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokeniserState.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokeniserState.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokeniserState~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TokeniserState.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/TreeBuilder.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TreeBuilder.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TreeBuilder.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TreeBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/TreeBuilder.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/UnicodeScalar.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/UnicodeScalar.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/UnicodeScalar.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/UnicodeScalar~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/UnicodeScalar.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Validate.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Validate.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Validate.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Validate~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Validate.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/Whitelist.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Whitelist.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Whitelist.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Whitelist~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/Whitelist.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/XmlDeclaration.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlDeclaration.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlDeclaration.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlDeclaration~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlDeclaration.swiftdeps"
+  },
+  "/home/william-chin/CSII-ISP/.build/checkouts/SwiftSoup/Sources/XmlTreeBuilder.swift": {
+    "dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlTreeBuilder.d",
+    "object": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlTreeBuilder.swift.o",
+    "swiftmodule": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlTreeBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/william-chin/CSII-ISP/.build/x86_64-unknown-linux-gnu/debug/SwiftSoup.build/XmlTreeBuilder.swiftdeps"
+  }
+}

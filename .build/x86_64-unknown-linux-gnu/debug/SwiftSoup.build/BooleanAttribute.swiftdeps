@@ -1,0 +1,46 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BooleanAttribute"
+provides-nominal:
+- "9SwiftSoup16BooleanAttributeC"
+provides-member:
+- ["9SwiftSoup16BooleanAttributeC", ""]
+depends-top-level:
+- "Attribute"
+- "Bool"
+- "BooleanAttribute"
+- !private "BooleanLiteralType"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["9SwiftSoup9AttributeC", "Bool"]
+- ["9SwiftSoup9AttributeC", "String"]
+- ["9SwiftSoup9AttributeC", ""]
+- ["9SwiftSoup9AttributeC", "init"]
+- ["9SwiftSoup9AttributeC", "isBooleanAttribute"]
+- ["9SwiftSoup16BooleanAttributeC", "Bool"]
+- ["9SwiftSoup16BooleanAttributeC", "String"]
+- ["9SwiftSoup16BooleanAttributeC", "deinit"]
+- ["9SwiftSoup16BooleanAttributeC", "init"]
+- ["9SwiftSoup16BooleanAttributeC", "isBooleanAttribute"]
+- ["SQ", ""]
+- !private ["SQ", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "9SwiftSoup9AttributeC"
+- "9SwiftSoup16BooleanAttributeC"
+- "SQ"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "820120498246da3cd1639bd4ed31d5e7"

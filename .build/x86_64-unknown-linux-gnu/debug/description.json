@@ -1,12 +1,19 @@
 {
   "builtTestProducts" : [
-
+    {
+      "binaryPath" : "\/home\/william-chin\/CSII-ISP\/.build\/x86_64-unknown-linux-gnu\/debug\/CSII-ISPPackageTests.xctest",
+      "packageName" : "CSII-ISP",
+      "productName" : "CSII-ISPPackageTests"
+    }
   ],
   "copyCommands" : {
 
   },
   "swiftTargetMap" : {
-    "C.Simple-debug.module" : "Simple"
+    "C.CSII-ISP-debug.module" : "CSII-ISP",
+    "C.CSII-ISPPackageTests-debug.module" : "CSII-ISPPackageTests",
+    "C.CSII-ISPTests-debug.module" : "CSII-ISPTests",
+    "C.SwiftSoup-debug.module" : "SwiftSoup"
   },
   "testDiscoveryCommands" : {
 

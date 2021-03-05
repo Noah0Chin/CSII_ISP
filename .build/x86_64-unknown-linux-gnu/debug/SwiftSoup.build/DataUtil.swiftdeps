@@ -1,0 +1,36 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DataUtil"
+provides-nominal:
+- "9SwiftSoup8DataUtilC"
+provides-member:
+- ["9SwiftSoup8DataUtilC", ""]
+depends-top-level:
+- "DataUtil"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "StringLiteralType"
+depends-member:
+- ["9SwiftSoup8DataUtilC", "UNICODE_BOM"]
+- ["9SwiftSoup8DataUtilC", "boundaryLength"]
+- ["9SwiftSoup8DataUtilC", "bufferSize"]
+- ["9SwiftSoup8DataUtilC", "charsetPattern"]
+- ["9SwiftSoup8DataUtilC", "defaultCharset"]
+- ["9SwiftSoup8DataUtilC", "deinit"]
+- ["9SwiftSoup8DataUtilC", "init"]
+- ["9SwiftSoup8DataUtilC", "mimeBoundaryChars"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "9SwiftSoup8DataUtilC"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/opt/swift-5.3.2-RELEASE-ubuntu20.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "03da107bd33b5356ecf87a1e8445904f"
