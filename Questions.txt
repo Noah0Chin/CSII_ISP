@@ -1,0 +1,8 @@
+Date: 3/16/2021
+Inquiries:
+ - How does Swift Soup Library Work
+ - How would we put the Swift Soup information and put it into IGIS
+ - importing scenes, adding the scenes library in this directory
+ - git hub organization?
+ - what if we don't 100% complete our goal
+---------------------------------------------------------------------
