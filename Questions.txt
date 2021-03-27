@@ -6,3 +6,22 @@ Inquiries:
  - git hub organization?
  - what if we don't 100% complete our goal
 ---------------------------------------------------------------------
+
+3/26/2021
+ - There is not enough time, the project may be too hard?
+ - Alternative projects:
+  - Reaction time based "smite" simulator (league of legends minigame)
+ - choose your own adventure
+  - could be text based
+ - 1 screen puzzles, or point and click story
+ - text based puzzle game,
+  -inputing specific words, adventure type game
+
+ - questions about Swift Soup, UIKit, and tutoring
+ -solve how to get enough help from Mr. Ben, and times we can use tutoring
+ - normally after school he tutors csI or is too distracted to help our CSI ISP
+ - maybe after class, lets try
+ - Go to tutoring before school starts.
+  EVERYDAY 7:20 - 8:10 GO TO TUTORING PLEASE
+  WE NEED ALL HELP WE CAN GET
+
