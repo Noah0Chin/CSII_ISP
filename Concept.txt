@@ -21,3 +21,8 @@ Hardest of all we will need to learn how to webscrape, and if that is even possi
 Finally, we wil need to figure out forumlas to use for our numbers.
 
 3. UI sketch link https://cdn.discordapp.com/attachments/786433258429612062/786442379640569856/unknown.png
+
+``````````````````````````````````````````````````````````````````````````````````
+
+Well last second project change to an Aim trainer
+need work on now yes very
