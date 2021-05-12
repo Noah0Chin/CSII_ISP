@@ -1,0 +1,23 @@
+Aim Trainer 
+
+Our new idea is to implement create an aim trainer with different mini-games.
+
+Core features:
+We will have a main menu screen with interactable buttons for changing settings and gamemode.
+Different difficulty levels. 
+Example Button: timer for how long to "aim train."
+At the end of the session/game the program will give you statistics about your performance.
+This will include your stats compared to the average and where you can improve.
+Different mini-games within the Aim Trainer (for example a reaction time test). 
+
+Other notes:
+Check collision with the bounding rect of different circles on the screen with a bounding rect drawn around the mouse.
+On mouse click, compare the two bounding rects and if they overlap then the circle disappears.
+This will increase your score or give you credit for hitting the target.
+Statistics will be given based on whether you hit certain thresholds. 
+
+Will need to research how to implement various visuals and sounds.
+Additionally figure out how multiple people can collaborate to work on different parts of the project at once. 
+
+
+https://thecodermerlin.github.io/Scenes/

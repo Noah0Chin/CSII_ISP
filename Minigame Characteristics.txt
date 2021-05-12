@@ -1,0 +1,13 @@
+Main ideas
+- Award points on a correct clicked circle
+- Adjust points based on how fast a circle is clicked (multiplier undetermined)
+- Adjust points based on how precise to the middle a circle is clicked (multiplier undetermined)
+- Decrement points based on misclicked circles
+- After timer ends, ending screen with statistics is displayed
+- Statistics include accuracy (correct clicks out of total clicks), total points accumulated, graph with history of scores
+- Settings menu to adjust scenario (time it takes each circle to fade, number of circles on screen at the same time, timer value)
+- Integration with games to match scenarios (sensitivity, field of vision, etc.)
+
+Additional notes:
+- Create a center for each circle. When a circle is clicked, calculate the distance from its center to determine score multiplier.
+- Initiate a timer with each circle's appearance. Correlate the time it takes from an appearance to its correct click to determine score multiplier.
